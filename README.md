@@ -1,3 +1,6 @@
+# download repo
+mkdir -p ~/opencv/ && cd ~/opencv && git init && git remote add gh git@github.com:benjaminabruzzo/learnopencv.git && git pull gh master
+
 # learnopencv
 Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenCV.com](https://www.LearnOpenCV.com)
 
